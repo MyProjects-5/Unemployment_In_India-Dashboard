@@ -15,7 +15,7 @@ The primary objectives of this project are :-
 
 - **Interactive Dashboards :-** Users can interact with various dashboards to get detailed insights into unemployment data.
 - **State-wise Analysis :-** Provides a granular view of unemployment statistics across different Indian states.
-- **Demographic Insights :-** Examines unemployment rates segmented by age, gender, and education levels.
+- **Demographic Insights :-** Examines unemployment rates segmented by rural and urban areas.
 - **Time Series Analysis :-** Highlights trends and changes in unemployment over specific periods.
 - **Customizable Filters :-** Allows users to apply filters and drill down into specific data segments for deeper analysis.
 
@@ -28,3 +28,8 @@ This Power BI project on unemployment in India offers a powerful tool for unders
 - **Power BI :-** For creating interactive data visualizations and dashboards.
 - **Excel/CSV :-** For data preprocessing, cleaning, and initial analysis.
 - **DAX (Data Analysis Expressions) :-** Utilized in Power BI for data modeling and complex calculations.
+
+# Output :-
+![Screenshot 2024-05-15 131342](https://github.com/MyProjects-5/Unemployment-In-India/assets/140932670/b921fed7-6f6f-41b4-a98e-90e8496a3497)
+
+# DashBoard Vedio :-
