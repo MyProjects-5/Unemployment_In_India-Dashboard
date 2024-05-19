@@ -6,7 +6,7 @@ This project delves into the unemployment situation in India by leveraging data 
 
 ## **Objective :-**
 
-The primary objectives of this project are:
+The primary objectives of this project are :-
 - To analyze and visualize the unemployment rate in India.
 - To identify trends and patterns in unemployment across different regions and demographic groups.
 - To provide a tool for stakeholders to explore and understand the underlying factors contributing to unemployment.
